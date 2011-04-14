@@ -1,0 +1,1 @@
+mvn -Djetty.reload=automatic -Djetty.scanIntervalSeconds=1 jetty:run
